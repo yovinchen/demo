@@ -1,0 +1,1 @@
+[![Build Status](http://10.211.55.12:1080/api/badges/YoVinchen/demo/status.svg)](http://10.211.55.12:1080/YoVinchen/demo)
